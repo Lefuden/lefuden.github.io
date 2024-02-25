@@ -1,0 +1,55 @@
+{
+  "Work": [
+    {
+      "Id": "0",
+      "Name": "Café 23",
+      "Location": "Gnarp",
+      "Date": "2020",
+      "Info": "baking and serving"
+    },
+    {
+      "Id": "1",
+      "Name": "NCC Roads AB",
+      "Location": "Sundsvall",
+      "Date": "2012",
+      "Info": "process operator at asphalt plant, seasonal worker"
+    },
+    {
+      "Id": "2",
+      "Name": "NCC Roads AB",
+      "Location": "Sundsvall",
+      "Date": "2007-2011",
+      "Info": "laboratory, quality control, seasonal worker"
+    }
+  ],
+  "Education": [
+    {
+      "Id": "0",
+      "Name": "Edugrade",
+      "Location": "Online",
+      "Date": "2023-2025",
+      "Info": ".NET System Developer with AI competence"
+    },
+    {
+      "Id": "1",
+      "Name": "Hermods",
+      "Location": "Online",
+      "Date": "2022-2023",
+      "Info": "online courses to qualify for higher education"
+    },
+    {
+      "Id": "2",
+      "Name": "Lexicon",
+      "Location": "Gävle",
+      "Date": "2021",
+      "Info": "Introductory course to programming"
+    },
+    {
+      "Id": "3",
+      "Name": "Ålsta folkhögskola",
+      "Location": "Sundsvall",
+      "Date": "2015-2016",
+      "Info": "High school qualifications"
+    }
+  ]
+}
